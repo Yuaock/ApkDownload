@@ -1,1 +1,2 @@
 欢迎来到Yuaock的游戏下载页
+可以到旁边的Releases下载
