@@ -1,3 +1,5 @@
 欢迎来到Yuaock的游戏下载页
 
-可以到旁边的Releases下载
+可以到Releases下载
+
+尽量啥版本都有
