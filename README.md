@@ -2,6 +2,8 @@
 
 code下载片头|Releases下载游戏|Issues问题反馈|Pull requests建议
 
+ios和mac请到自家应用商店下载
+
 尽量啥版本都有
 
 (其他平台搬运来的(bushi)
