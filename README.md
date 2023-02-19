@@ -1,6 +1,6 @@
 欢迎来到Yuaock的游戏下载页
 
-code下载文件|Releases下载游戏|Issues问题反馈|Pull requests建议
+code下载文件|Releases下载游戏(手机往下翻)|Issues问题反馈|Pull requests建议
 
 ios和mac请到自家应用商店下载
 
